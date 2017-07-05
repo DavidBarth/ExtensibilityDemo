@@ -7,6 +7,10 @@ namespace People.Service
 {
     public class PersonService : IPersonService
     {
+        /// <summary>
+        /// Normally getting the data from a SQL server for example
+        /// </summary>
+        /// <returns></returns>
         public List<Person> GetPeople()
         {
             var p = new List<Person>()

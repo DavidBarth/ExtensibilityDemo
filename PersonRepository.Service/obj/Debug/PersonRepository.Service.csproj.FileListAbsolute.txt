@@ -1,0 +1,8 @@
+C:\DAVE\__PLURALSIGHT\C#_Interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Service\bin\Debug\PersonRepository.Service.dll.config
+C:\DAVE\__PLURALSIGHT\C#_Interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Service\bin\Debug\PersonRepository.Service.dll
+C:\DAVE\__PLURALSIGHT\C#_Interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Service\bin\Debug\PersonRepository.Service.pdb
+C:\DAVE\__PLURALSIGHT\C#_Interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Service\bin\Debug\PersonRepository.Interface.dll
+C:\DAVE\__PLURALSIGHT\C#_Interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Service\bin\Debug\PersonRepository.Interface.pdb
+C:\DAVE\__PLURALSIGHT\C#_Interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Service\obj\Debug\PersonRepository.Service.csprojResolveAssemblyReference.cache
+C:\DAVE\__PLURALSIGHT\C#_Interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Service\obj\Debug\PersonRepository.Service.dll
+C:\DAVE\__PLURALSIGHT\C#_Interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Service\obj\Debug\PersonRepository.Service.pdb
