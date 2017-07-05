@@ -1,0 +1,5 @@
+C:\DAVE\__PLURALSIGHT\C#_Interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Interface\bin\Debug\PersonRepository.Interface.dll
+C:\DAVE\__PLURALSIGHT\C#_Interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Interface\bin\Debug\PersonRepository.Interface.pdb
+C:\DAVE\__PLURALSIGHT\C#_Interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.csprojResolveAssemblyReference.cache
+C:\DAVE\__PLURALSIGHT\C#_Interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.dll
+C:\DAVE\__PLURALSIGHT\C#_Interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.pdb
